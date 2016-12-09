@@ -17,7 +17,7 @@ public class A7Q4 {
 
         //create an array to store 10 numbers
         int[] marks = new int[10];
-        //create a for loop that loops twice
+        //create a for loop that loops a times
         for (int x = 0; x < 10; x = x + 1) {
             //ask for the 2 integers
             System.out.println("please enter your marks:");

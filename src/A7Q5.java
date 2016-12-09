@@ -49,7 +49,7 @@ public class A7Q5 {
         }
         //print out the 2 numbers
         System.out.println("The marks in adcending order are:");
-        //create a for loop that loops twice
+        //create a for loop that loops a times
         for (int x = 0; x < a; x = x + 1) {
             //print out the 2 numbers
             System.out.println(marks[x]);

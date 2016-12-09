@@ -22,7 +22,7 @@ public class A7Q6 {
         //create an array to store a amount numbers
         double[] marks = new double[a];
 
-        //create a for loop that loops twice
+        //create a for loop that loops a times
         for (int x = 0; x < a; x = x + 1) {
             //ask for the 2 integers
             System.out.println("please enter mark #" + (x + 1) + ":");
